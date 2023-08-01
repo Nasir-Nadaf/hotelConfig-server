@@ -1,6 +1,4 @@
-spring:
-  application:
-    name: User
+
 eureka:
   instance:
     ip-address: true
